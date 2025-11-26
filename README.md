@@ -80,8 +80,6 @@ silahkan kalian dapat rapihkan sesuai kemauan kalian
 │── get_last_id.php
 │── setname.php
 │── check_name.php
-│── assets/
-│      └── (tempatkan screenshot light dan dark mode di sini)
 ```
 
 ---
@@ -189,24 +187,5 @@ Email: `[Portofolio](https://portofolio-fatihakmal.netlify.app)`
 ---
 
 ## 🔗 Catatan
-Untuk screenshot, letakkan di folder:
-
-```
-assets/screenshot-light.png
-assets/screenshot-dark.png
-```
-
-Lalu ubah bagian berikut:
-
-```md
-![Light Mode](ADD_LINK_GAMBAR_LIGHT_MODE_DI_SINI)
-![Dark Mode](ADD_LINK_GAMBAR_DARK_MODE_DI_SINI)
-```
-
-Menjadi:
-
-```md
-![Light Mode](assets/screenshot-light.png)
-![Dark Mode](assets/screenshot-dark.png)
 ```
 
