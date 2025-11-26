@@ -10,19 +10,9 @@
 ---
 
 ## 📷 Screenshot UI
-> **Tambahkan sendiri link gambarnya pada bagian ini**  
-> Cukup ubah URL sesuai file screenshot Anda (misal: `/assets/screenshot-1.png`).  
-> Anda bisa menaruhnya di folder repo Anda:
 
-```
-/ss_UI.png
-```
-
-### 🌞 Light Mode
-![Light Mode](ADD_LINK_GAMBAR_LIGHT_MODE_DI_SINI)
-
-### 🌙 Dark Mode
-![Dark Mode](ADD_LINK_GAMBAR_DARK_MODE_DI_SINI)
+### 🌞 Screenshoot UI
+![Simple UI](/ss_UI.png)
 
 ---
 
