@@ -412,7 +412,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 
 <footer class="text-center mt-4 mb-2 text-muted">
-    © 2025 R&D MDTV — All Rights Reserved
+    © 2025 <a href="mailto:fatih.akmal@mdentertainment.com" class="text-muted link-mail">Fatih Akmal</a> R&D MDTV — All Rights Reserved
 </footer>
 
 <!-- Modal Input Nama -->
