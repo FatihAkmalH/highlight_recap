@@ -50,4 +50,9 @@ $output .= addBlock("NEW PROGRAM",  $data['new_program']);
 $output .= addBlock("SPECIAL",      $data['program_special']);
 $output .= addBlock("SERIES",       $data['series']);
 
+// $footNote = "\n";
+$output .= "_Berdasarkan info publik. Jadwal dapat berubah sewaktu-waktu sesuai kebijakan station televisi_";
+
+
 echo trim($output);
+// echo trim($footNote);

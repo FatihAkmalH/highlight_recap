@@ -106,6 +106,7 @@
 
                 <pre id="output" style="white-space: pre-wrap;"></pre>
 
+                <!-- <pre id="footNote"></pre> -->
 
             </div>
         </div>
@@ -252,6 +253,7 @@ $("#deleteRecap").click(function() {
 // ========== Copy ============
 function copyOutput() {
     let text = document.getElementById("output").innerText;
+    // let footNote = document.getElementById("footNote").innerText;
 
     // Coba pakai Clipboard API modern
     if (navigator.clipboard && window.isSecureContext) {
